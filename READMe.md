@@ -4,7 +4,7 @@ This API uses ffmpeg to stream video with low latency.
 # Codebase Setup
 1. Clone this repository using the comand below
 ```bash
-git clone 
+git clone https://github.com/Babatunde13/video-processor.git
 ```
 
 **If you have ffmpeg locally you can run this app directly, otherwise you can use the docker setup to start the app.**
